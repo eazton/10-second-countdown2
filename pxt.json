@@ -1,5 +1,6 @@
 {
     "name": "10 second countdown",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
